@@ -1,0 +1,2 @@
+import './Features.css'
+export default function Features(){ return <section>Features</section> }
