@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true,
-    port: 5175,
+    port: 5176,
     strictPort: true,
     allowedHosts: ["jadishly-agential-marlyn.ngrok-free.dev"]
   }
